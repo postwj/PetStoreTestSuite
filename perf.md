@@ -44,19 +44,19 @@
  - Определение видов тестирования end2end, API Load, Throughput, Stress , Endurance.
    Пример тест плана:
 ## Test Scope	
-   ### Scenarios
-   ### Limitations and not tested features
+   - Scenarios
+   - Limitations and not tested features
 ## Test Approach
-   ### Testing methodology
-   ### Test Resulting and Control
-      #### Results  analysis
-      #### Performance Issues.
+   - Testing methodology
+   - Test Resulting and Control
+      - Results  analysis
+      - Performance Issues.
    ### Reporting	
 ## Test Environment and workload model
-   ### Model environment (HW, DB)
-   ### Load distribution
-   ### Risks and Assumptions
-   ### Test Schedule
+   - Model environment (HW, DB)
+   - Load distribution
+   - Risks and Assumptions
+   - Test Schedule
 ## Test tools	
 
 ## 4. Написание тестов и формирование тестовой ифраструктуры.
